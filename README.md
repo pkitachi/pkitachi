@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="" width="100%">
+  <img src="https://raw.githubusercontent.com/pkitachi/pkitachi/master/banner.svg" alt="" width="100%">
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/stars/pkitachi/pkitachi?&style=flat" alt="stars">
