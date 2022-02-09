@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/stars/pkitachi/pkitachi?&style=flat" alt="stars">
   <img src="https://img.shields.io/github/watchers/pkitachi/pkitachi?&style=flat" alt="watchers">
 </p>
-<p>Welcome to my page! </br> I'm Pk, Software Developer from <img src="https://image.flaticon.com/icons/svg/299/299702.svg" width="13"/> <b>Hyderabad, India.</b> Currently pursuing BE 3rd Year <a href="cbit.ac.in">@CBIT</a></p>
+<p>Welcome to my page! </br> I'm PK, Software Engineer from Hyderabad, India.</b> Currently working at <a href="https://www.oracle.com/in">Oracle</a></p>
 
 - 🔭 I’m currently working on [CBIT Bus Tracking](https://github.com/pkitachi/BusTracking-CBIT)
 - 🌱 I’m currently learning [React](https://reactjs.org/)
@@ -36,7 +36,7 @@
   <br>
   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkitachi&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pkitachi&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Mani's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pkitachi&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="PK's Github Stats" />
     <br>
 </details style="width:100%">
 
